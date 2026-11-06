@@ -1,0 +1,8 @@
+homepage: "https://venividicookie.com"
+documentation: "https://github.com/graffish-labs/venividicookie-gtm-template#readme"
+versions:
+  # Latest version first. `sha` is the commit in the public repository
+  # (github.com/graffish-labs/venividicookie-gtm-template) that holds this template.tpl.
+  # bin/export-public-repo.sh writes it after the first commit there.
+  - sha: 0000000000000000000000000000000000000000
+    changeNotes: Initial release.
